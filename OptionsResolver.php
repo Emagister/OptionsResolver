@@ -211,6 +211,11 @@ class OptionsResolver implements OptionsResolverInterface
         return isset($this->requiredOptions[$option]);
     }
 
+    public function getKnownOptions($option)
+    {
+        return $this->knownOptions;
+    }
+
     /**
      * {@inheritdoc}
      */
