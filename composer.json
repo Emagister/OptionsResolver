@@ -1,7 +1,7 @@
 {
-    "name": "symfony/options-resolver",
+    "name": "emagister/options-resolver",
     "type": "library",
-    "description": "Symfony OptionsResolver Component",
+    "description": "Emagister OptionsResolver Component",
     "keywords": ["options", "config", "configuration"],
     "homepage": "http://symfony.com",
     "license": "MIT",
